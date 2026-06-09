@@ -8,6 +8,7 @@ MeteoAI TR, canlı hava durumu verileri, baraj doluluk oranları ve bölgesel ik
 - **Baraj Doluluk Oranları:** Barajların güncel doluluk verilerini takip etme imkanı.
 - **Bölgesel Hava Verisi:** Belirli bölgelere özel detaylı hava durumu tahminleri ve analizleri.
 - **Yapay Zeka Asistanı:** Meteoroloji ve hava durumu ile ilgili sorularınızı yapay zekaya sorabilme.
+- **Koyu / Açık Tema (Dark & Light Mode):** Kullanıcı tercihine veya sistem saatine göre arayüz temasını gündüz/gece moduna geçirebilme özelliği.
 - **PWA Desteği:** Çevrimdışı çalışabilme ve cihazlara yerel bir uygulama gibi yüklenebilme (Service Worker & Manifest).
 - **Rapor İndirme:** Hava durumu ve baraj analiz raporlarını cihazınıza indirebilme (`rapor_indir.php`).
 
@@ -34,3 +35,21 @@ MeteoAI TR, canlı hava durumu verileri, baraj doluluk oranları ve bölgesel ik
 - **Frontend:** HTML5, CSS3, Vanilla JavaScript
 - **Backend:** PHP
 - **Mimari:** Progressive Web App (PWA)
+
+## 📸 Ekran Görüntüleri
+
+*Aşağıdaki görsellere tıklayarak tam boyutlu olarak inceleyebilirsiniz.*
+
+<details>
+  <summary><b>Uygulama İçi Görselleri Görmek İçin Tıklayın</b></summary>
+  <br>
+  
+  ![Ekran Görüntüsü 1](assets/img/siteiçi/screenshot-1.png)
+  ![Ekran Görüntüsü 2](assets/img/siteiçi/screenshot-2.png)
+  ![Ekran Görüntüsü 3](assets/img/siteiçi/screenshot-3.png)
+  ![Ekran Görüntüsü 4](assets/img/siteiçi/screenshot-4.png)
+  ![Ekran Görüntüsü 5](assets/img/siteiçi/screenshot-5.png)
+  ![Ekran Görüntüsü 6](assets/img/siteiçi/screenshot-6.png)
+  ![Ekran Görüntüsü 7](assets/img/siteiçi/screenshot-7.png)
+  ![Ekran Görüntüsü 8](assets/img/siteiçi/screenshot-8.png)
+</details>
